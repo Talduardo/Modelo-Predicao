@@ -18,7 +18,7 @@ A aplicação permite carregar um conjunto de dados, processá-lo e gerar gráfi
 - **dataset/** → Conjunto de dados utilizado para análise e previsão.  
 - **script.py** → Código principal para processamento e previsão.  
 - **README.md** → Documentação do projeto.  
-
+- **requirements.txt** → instalação das bibliotecas necessárias.
 ---
 
 ## 🖥️ Tecnologias Utilizadas:
